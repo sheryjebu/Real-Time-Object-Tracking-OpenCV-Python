@@ -23,6 +23,10 @@ Common Intelligence Platform (CIP) for Robotics – Real Time Object Tracking Us
 >> Implementation of  Open CV and applying Computer Vision and Deep Learning algorithm YOLO ( You Only Look Once ) trained model.
 >> Open CV ,YOLO ( You Only Look Once )
 
+Stereoscopic Camera setup
+<img width="201" alt="image" src="https://user-images.githubusercontent.com/87146801/176643296-95821fef-df7b-4710-b950-37d84e04b6d4.png">
+
+
 Results So Far
 
 <img width="877" alt="image" src="https://user-images.githubusercontent.com/87146801/173096954-500200a7-c730-4ba5-a319-9873e291e084.png">
